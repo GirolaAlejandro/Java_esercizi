@@ -1,5 +1,6 @@
 
-// Implementa due funzioni che sommino e moltiplichino tra loro due variabili di tipo intero. La prima funzione deve restituire la somma delle due variabili intere. La seconda funzione dovrebbe restituire il prodotto delle due variabili intere.
+/*Implementa due funzioni che sommino e moltiplichino tra loro due variabili di tipo intero.
+La prima funzione deve restituire la somma delle due variabili intere. La seconda funzione dovrebbe restituire il prodotto delle due variabili intere. */
 public  class SumAndProductExercise {
 
     int var1 = 5;
